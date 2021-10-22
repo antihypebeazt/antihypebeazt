@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antihypebeazt
-- 👀 I’m interested in creating products for we applications in the retail space.
-- 🌱 I’m currently learning golang.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating products for we applications in the blockchain space.
+- 🌱 I’m currently learning solidity.
+- 💞️ I’m looking to collaborate on any smart contract projects, especially NFT projects.
 - 📫 How to reach me ...
 
 <!---
